@@ -2,6 +2,8 @@
 
 This is a crowd sourcing app!
 
+Also this is my first repo!
+
 # Getting started 
 
 ## Requirements
