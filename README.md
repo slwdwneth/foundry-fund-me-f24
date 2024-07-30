@@ -2,7 +2,6 @@
 
 This is a crowd sourcing app!
 
-Also this is my first repo!
 
 # Getting started 
 
@@ -16,7 +15,7 @@ Also this is my first repo!
 ## Quickstart
 
 ```
-git clone https://github.com/slwdwneth/foundry-fund-me-fr
+git clone https://github.com/slwdwneth/foundry-fund-me-f24
 cd foundry-fund-me-fr
 forge build
 ```
